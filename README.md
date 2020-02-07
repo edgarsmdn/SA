@@ -1,7 +1,7 @@
 # Simulated Annealing
 
 <p align="center">
-<img src="https://github.com/edgarsmdn/SA/blob/master/SA.gif" width="500"> 
+<img src="https://github.com/edgarsmdn/SA/blob/master/SA_1.gif" width="500"> 
 </p>
 
 ## Development
