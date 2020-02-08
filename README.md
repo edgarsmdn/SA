@@ -69,3 +69,7 @@ Optimum: (class) Results with:
 ### References
 
 Jacobson, A. G. (2010). Simulated Annealing. In J. Y. M. Gendreau, Handbook of Metaheuristics (pp. 1 - 39). Buffalo: International Series in Operations Research & Management Sciences.
+
+## License
+
+This repository contains a [MIT LICENSE](https://github.com/edgarsmdn/SA/blob/master/LICENSE)
