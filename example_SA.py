@@ -62,7 +62,6 @@ ax.set_ylabel('y')
 
 scatter = ax.scatter(points["position"][:,0], points["position"][:,1], c='red', s=50)
 
-# Repeat last values to enforce the pause in the last frame during the saving
 xs = results.traj_x
 ts = results.traj_t
 
